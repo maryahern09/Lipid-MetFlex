@@ -1,7 +1,7 @@
 # Lipid-MetFlex
 Code used in the Lipid MetFlex Analysis
 
-## Dataset Needed
+## Datasets Needed
 1. Lipid MetFlex data set with anthropometrics, metabolites, clinical measures, time points, and categorical variables like diet group and fat burning group.
 2. Menopausal status dataset
 3. Cluster components of the metabolites seperated by week 
