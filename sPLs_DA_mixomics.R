@@ -1,4 +1,4 @@
-#Updated code for sPLS-DA on 3-11-24 by Mary 
+#Updated code for sPLS-DA on 3-20-24 by Mary 
 
 #Here are the steps to make a sPLS-DA using cluster components as the predictor
 #in a multilevel structure
